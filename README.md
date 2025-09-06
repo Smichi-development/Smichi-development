@@ -30,4 +30,4 @@ I specialize in creating unique Discord bots that help communities grow and enjo
 ---
 
 ## <img src="https://img.icons8.com/color/48/000000/eye.png" width="24"/> Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Smichi-development&color=blue&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Smichi-development.Smichi-development&style=for-the-badge&color=blue)

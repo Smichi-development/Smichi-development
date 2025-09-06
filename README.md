@@ -25,4 +25,9 @@ I specialize in creating unique Discord bots that help communities grow and enjo
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="24"/> GitHub Stats
 ![Smichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smichi-development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![Smichi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Smichi-development&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smichi-development&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smichi-development&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/eye.png" width="24"/> Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Smichi-development&color=blue&style=flat-square)

@@ -1,4 +1,4 @@
-# Smichi / Smichi-development 
+# Smichi / Smichi-development https://camo.githubusercontent.com/1fb942c7e0299fd30f5b17feeec509410a1761df9ce838486c872fc2c1276818/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3333372f776176696e672d68616e645f31663434622e706e67
 
 ## About Me:
 Hi, I’m a 14-year-old developer from the UK.

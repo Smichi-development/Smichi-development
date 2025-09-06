@@ -4,7 +4,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/user.png" width="24"/> About Me
 Hello! I’m **Smichi**, a 14-year-old developer from the UK with **3+ years of experience** in building websites and Discord bots.  
-I specialize in creating unique Discord bots that help communities grow and enjoy turning ideas into practical, well crafted solutions.  
+I specialize in creating unique Discord bots that help communities grow and enjoy turning ideas into practical, well-crafted solutions.  
 
 ---
 
@@ -18,6 +18,7 @@ I specialize in creating unique Discord bots that help communities grow and enjo
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 

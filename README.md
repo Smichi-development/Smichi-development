@@ -2,26 +2,26 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/24/000000/user.png"/> About Me
+## <img src="https://img.icons8.com/color/48/000000/user.png" width="24"/> About Me
 Hello! I’m **Smichi**, a 14-year-old developer from the UK with **3+ years of experience** in building websites and Discord bots.  
 I specialize in creating unique Discord bots that help communities grow and enjoy turning ideas into practical, well-crafted solutions.  
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/24/000000/globe.png"/> Socials
+## <img src="https://img.icons8.com/color/48/000000/internet.png" width="24"/> Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1195857379816914954)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smichidev@gmail.com)  
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/24/000000/source-code.png"/> Tech Stack
+## <img src="https://img.icons8.com/color/48/000000/source-code.png" width="24"/> Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/24/000000/combo-chart.png"/> GitHub Stats
+## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="24"/> GitHub Stats
 ![Smichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smichi-development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![Smichi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Smichi-development&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smichi-development&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
